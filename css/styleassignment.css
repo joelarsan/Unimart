@@ -1,0 +1,46 @@
+#main{
+    display: flex;
+    margin-right: 30%;
+
+    width: 80%;
+}
+
+#leg1{
+    text-align: center;
+    font-size: large;
+    padding-top: 120px;
+}
+
+#leg2{
+    text-align: center;
+    font-weight: bolder;
+}
+
+#one{
+    background-color: deepskyblue;
+    padding: 30px;
+    margin-left: 30%;
+    color: white;
+    width: 50%;
+
+    text-align: center;
+}
+
+#two{
+    background-color: white;
+    width: 50%;
+    padding: 30px;
+
+
+
+}
+body{
+    background-color: blueviolet;
+}
+button{
+    background-color: deepskyblue;
+    color: white;
+    border-radius: 20%;
+    background-size: 200px;
+    margin-left: 120px;
+}
